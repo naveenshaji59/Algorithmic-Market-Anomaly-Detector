@@ -1,4 +1,4 @@
-<img width="1112" height="665" alt="Screenshot 2026-04-30 162014" src="https://github.com/user-attachments/assets/0687e9e3-0238-4c49-a977-80be490a1401" /># End-to-End Algorithmic Market Anomaly Detector
+# End-to-End Algorithmic Market Anomaly Detector
 
 ## Project Overview
 This project is an automated, multi-asset data pipeline designed to detect severe market volatility. Built entirely in Python, the algorithm fetches live financial time-series data, establishes statistical baselines, and flags anomalous price drops. The processed data is then exported and connected to a Tableau dashboard, bridging the gap between raw algorithmic output and executive-level business intelligence.
